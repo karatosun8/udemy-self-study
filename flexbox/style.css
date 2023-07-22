@@ -1,0 +1,58 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.container {
+    display: flex;
+    border: 6px solid black;
+    /* flex-direction:row;*/
+    /* flex-wrap: wrap;
+    flex-direction: row;
+    /* flex-flow: column-reverse wrap-reverse; */
+    /* height: 400px; */
+    /* justify-content: space-between; */
+    /* height: 800px; */
+    align-items:baseline;
+} 
+.flex-item {
+    text-align: center;
+    font-size: 1.5rem;
+    padding: 1rem;
+    font-weight: 800;
+    color: bisque;
+    flex-shrink: 4;
+    width: 8rem;
+    
+}
+.item-1{
+    background-color: blue;
+    flex-grow: 4;
+}
+.item-2{
+    background-color: rgb(66, 66, 126);
+   flex-grow: 2;
+    
+}
+.item-3{
+    background-color: rgb(165, 16, 170);
+    
+}
+.item-4{
+    background-color: rgb(168, 154, 21);
+    flex-grow: 3;
+}
+.item-5{
+    background-color: rgb(191, 191, 206);
+}
+.item-6{
+    background-color: rgb(68, 6, 60);
+}
+.item-7{
+    background-color: rgb(10, 201, 83);
+}
+.item-8{
+    background-color: rgb(219, 64, 16);
+}
+.item-9{
+    background-color: rgb(16, 188, 201);
+}
