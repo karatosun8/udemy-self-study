@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+
 import './App.css';
 
 function App() {
@@ -17,7 +17,12 @@ function App() {
     //   <input type="date"/>
 
     // </div>
-    <div className="box">
+    <div style= {{
+      backgroundColor:"yellowgreen",
+      width:"300px",
+      height:"300px"
+
+    }}>
 
     </div>
   );
