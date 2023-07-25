@@ -4,7 +4,8 @@ import "./App.css"
 
 function getRandomCourse (){
   const courseArray = ["Angular","Bootstrap","Developer","Js"]
-  return courseArray[Math.floor(Math.random()*courseArray.length)] //Math.random sıfırla bir arası rasgele sayı seçer
+  return courseArray[Math.floor(Math.random()*courseArray.length)]//Math.random sıfırla bir arası rasgele sayı seçer
+  
 }
 
 
