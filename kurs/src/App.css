@@ -15,19 +15,20 @@
   border: 1px solid grey;
   border-radius: 30px;
   padding: 30px;
-  text-align: justify;
-  box-sizing: border-box;
-  text-align: justify;
+  justify-content: center;
+  
+  
   
   
 }
 .cardDiv{
   display: flex;
-  justify-content: right;
+  justify-content: center;
   flex-wrap: wrap;
   gap: 20px;
   align-items: center;
-  padding:100px;
+  
+  
 }
 .cardTitle{
   font-size: 20px;

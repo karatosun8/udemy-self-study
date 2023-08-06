@@ -10,7 +10,7 @@
             "id":2,
             "content":"Bootstrap, Twitter tarafından başlatılan açık kaynaklı bir CSS, HTML ve JavaScript çerçevesidir. Web uygulamaları ve siteleri oluştururken hızlı, duyarlı (responsive) ve şık bir tasarım elde etmek için kullanılır. Bootstrap, temel tasarım şablonları, düğmeler, formlar, navigasyon çubukları, tipografi, resimler, öğeler ve daha birçok bileşeni içerir. Bu bileşenler, web geliştiricilerinin ve tasarımcıların kullanımı için hazır ve stilize edilebilir halde gelir.",
             "title":"Bootstrap",
-            "price":69
+            "price":49
         },
         {
             "id":3,
@@ -22,7 +22,13 @@
             "id":4,
             "content":"Frontend, web uygulamalarında ve sitelerinde kullanıcıların doğrudan etkileşimde bulunduğu, görsel ve kullanıcı arayüzüyle ilgili olan kısmı ifade eder. Bir web sayfasını tarayıcıda görüntülediğinizde, görünen her şey frontend'e aittir.Frontend, HTML (Hypertext Markup Language), CSS (Cascading Style Sheets) ve JavaScript gibi teknolojilerin kullanıldığı bir alanı kapsar. Bu teknolojiler, web sayfalarının yapısını (HTML), stilini (CSS) ve davranışını (JavaScript) tanımlamak için kullanılır.",
             "title":"Frontend",
-            "price":69
+            "price":99
+        },
+        {
+            "id":5,
+            "content":"PHP, özellikle web geliştirme için tasarlanmış popüler bir sunucu taraflı, açık kaynaklı bir programlama dilidir. PHP'nin açılımı dir. PHP, sunucu tarafında çalışır, yani kodları web sunucusunda yürütülür ve sonuçları web tarayıcısına gönderilir. Bu sayede web siteleri ve web uygulamaları oluşturmak için yaygın olarak kullanılır.",
+            "title":"Php",
+            "price":89
         }
     ]
 }
