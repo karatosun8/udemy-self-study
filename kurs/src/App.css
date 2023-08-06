@@ -1,42 +1,49 @@
-#root {
-  max-width: 1280px;
-  margin: 0 auto;
-  padding: 2rem;
-  text-align: center;
+
+
+.courseMainDiv{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+  
 }
 
-.logo {
-  height: 6em;
-  padding: 1.5em;
-  will-change: filter;
-  transition: filter 300ms;
+.card{
+  
+  width: 350px;
+  border: 1px solid grey;
+  border-radius: 30px;
+  padding: 30px;
+  text-align: justify;
+  box-sizing: border-box;
+  text-align: justify;
+  
+  
 }
-.logo:hover {
-  filter: drop-shadow(0 0 2em #646cffaa);
+.cardDiv{
+  display: flex;
+  justify-content: right;
+  flex-wrap: wrap;
+  gap: 20px;
+  align-items: center;
+  padding:100px;
 }
-.logo.react:hover {
-  filter: drop-shadow(0 0 2em #61dafbaa);
+.cardTitle{
+  font-size: 20px;
 }
-
-@keyframes logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.cardPrice{
+  font-style:italic ;
+  color: red;
 }
-
-@media (prefers-reduced-motion: no-preference) {
-  a:nth-of-type(2) .logo {
-    animation: logo-spin infinite 20s linear;
-  }
+.cardDeleteBtn{
+  width: 100px;
+  padding: 10px;
+  border-radius: 30px;
+  border: none;
+  background-color: rebeccapurple;
+  color: white;
 }
-
-.card {
-  padding: 2em;
-}
-
-.read-the-docs {
-  color: #888;
+h2{
+  font-size: 30px;
 }
