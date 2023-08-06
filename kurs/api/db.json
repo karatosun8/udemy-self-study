@@ -1,0 +1,28 @@
+{
+    "courses":[
+        {
+            "id":1,
+            "content":"Angular kursu Angular, Google tarafından geliştirilen ve modern web uygulamaları oluşturmak için kullanılan açık kaynaklı bir JavaScript çerçevesidir. İlk olarak AngularJS olarak adlandırılan çerçeve, daha sonra Angular 2 ve sonrasında sadece Angular olarak anılmaya başlanmıştır. Angular, tek sayfa uygulamaları (Single Page Application - SPA) geliştirmek için tasarlanmıştır ve özellikle büyük ve karmaşık uygulamaları yönetmek için idealdir.",
+            "title":"Angular",
+            "price":69
+        },
+        {
+            "id":2,
+            "content":"Bootstrap, Twitter tarafından başlatılan açık kaynaklı bir CSS, HTML ve JavaScript çerçevesidir. Web uygulamaları ve siteleri oluştururken hızlı, duyarlı (responsive) ve şık bir tasarım elde etmek için kullanılır. Bootstrap, temel tasarım şablonları, düğmeler, formlar, navigasyon çubukları, tipografi, resimler, öğeler ve daha birçok bileşeni içerir. Bu bileşenler, web geliştiricilerinin ve tasarımcıların kullanımı için hazır ve stilize edilebilir halde gelir.",
+            "title":"Bootstrap",
+            "price":69
+        },
+        {
+            "id":3,
+            "content":"C, genel amaçlı, yüksek seviyeli bir programlama dilidir. Dennis Ritchie tarafından Bell Laboratories'de geliştirilmiştir ve Unix işletim sisteminin yazılmasında da önemli bir rol oynamıştır. C, düşük seviyeli yapılar ve yüksek seviyeli dil özellikleri kombinasyonu ile güçlü ve esnek bir dil olarak kabul edilir.",
+            "title":"C programlama",
+            "price":69
+        },
+        {
+            "id":4,
+            "content":"Frontend, web uygulamalarında ve sitelerinde kullanıcıların doğrudan etkileşimde bulunduğu, görsel ve kullanıcı arayüzüyle ilgili olan kısmı ifade eder. Bir web sayfasını tarayıcıda görüntülediğinizde, görünen her şey frontend'e aittir.Frontend, HTML (Hypertext Markup Language), CSS (Cascading Style Sheets) ve JavaScript gibi teknolojilerin kullanıldığı bir alanı kapsar. Bu teknolojiler, web sayfalarının yapısını (HTML), stilini (CSS) ve davranışını (JavaScript) tanımlamak için kullanılır.",
+            "title":"Frontend",
+            "price":69
+        }
+    ]
+}
