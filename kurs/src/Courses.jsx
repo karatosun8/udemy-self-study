@@ -4,9 +4,9 @@ function Courses({ courses ,removeCourse}) {
 //   console.log(courses)
   return (
     <div className="courseMainDiv">
-      {/* <div>
+      <div>
         <h2>Kurslarım</h2>
-      </div> */}
+      </div>
            
       <div className="cardDiv">
         {courses.map((course) => {
