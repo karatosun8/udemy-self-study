@@ -87,4 +87,11 @@
 // },0)
 // console.log(osmanTotal);
 
+//! find() metodunun handicapi bulduğu ilk değeri getirir diğerlerini getirmez.buna dikkat et
+
+//! push () bir element eklediğimiz de kullanılır ve dizinin sonuna ekleme yapar.
+// pop() metodu dizideki en son elemanı çıkarır.
+
+//! sort() sıralama yapmak istediğimizde kullanılır
+
 
